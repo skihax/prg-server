@@ -1,0 +1,23 @@
+{
+  "name": "prg-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphhax/prg-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sphhax/prg-server/issues"
+  },
+  "homepage": "https://github.com/sphhax/prg-server#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "gamedig": "^3.0.8"
+  }
+}
