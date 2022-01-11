@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sphhax/prg-server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.2",
     "gamedig": "^3.0.8"
   }
